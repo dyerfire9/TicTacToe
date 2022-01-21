@@ -1,4 +1,4 @@
-package com.example.tictactoe;
+package yts.yourapplicationname.tictactoe;
 
 import android.content.Context;
 

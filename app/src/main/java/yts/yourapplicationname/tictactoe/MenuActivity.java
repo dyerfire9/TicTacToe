@@ -1,4 +1,4 @@
-package com.example.tictactoe;
+package yts.yourapplicationname.tictactoe;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -9,6 +9,7 @@ import android.view.WindowManager;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
+
 
 public class MenuActivity extends AppCompatActivity {
 
